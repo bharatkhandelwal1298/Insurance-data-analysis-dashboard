@@ -43,9 +43,7 @@ Created interactive dashboard visuals using:
 This dashboard helps businesses:
 - Track insurance KPI metrics
 - Monitor claim performance
-- Improve policy management
 - Analyze customer behavior
-- Identify operational risks
 - Support data-driven decisions
 
 # 📷 Dashboard Screenshots
